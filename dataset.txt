@@ -1,0 +1,3 @@
+https://snap.stanford.edu/data/loc-gowalla.html
+https://snap.stanford.edw/data/loc-brightkite .html
+https://www.yongliu.org/datasets.html
